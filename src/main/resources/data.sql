@@ -1,0 +1,1 @@
+INSERT INTO USER_ENTITY(LOGIN, PASSWORD) VALUES('olamakota', 'adminszef');
